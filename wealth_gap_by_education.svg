@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="790" viewBox="0 0 1320 790">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Georgia,"Times New Roman",serif;fill:#000}.muted{fill:#333}.grid{stroke:#dddddd;stroke-width:.8}.axis{stroke:#000;stroke-width:1}</style>
+<line x1="105" y1="480.0" x2="1265" y2="480.0" class="grid"/>
+<text x="91" y="485.0" text-anchor="end" class="muted" font-size="13">$0k</text>
+<line x1="105" y1="410.0" x2="1265" y2="410.0" class="grid"/>
+<text x="91" y="415.0" text-anchor="end" class="muted" font-size="13">$100k</text>
+<line x1="105" y1="340.0" x2="1265" y2="340.0" class="grid"/>
+<text x="91" y="345.0" text-anchor="end" class="muted" font-size="13">$200k</text>
+<line x1="105" y1="270.0" x2="1265" y2="270.0" class="grid"/>
+<text x="91" y="275.0" text-anchor="end" class="muted" font-size="13">$300k</text>
+<line x1="105" y1="200.0" x2="1265" y2="200.0" class="grid"/>
+<text x="91" y="205.0" text-anchor="end" class="muted" font-size="13">$400k</text>
+<line x1="105" y1="130.0" x2="1265" y2="130.0" class="grid"/>
+<text x="91" y="135.0" text-anchor="end" class="muted" font-size="13">$500k</text>
+<line x1="105" y1="60.0" x2="1265" y2="60.0" class="grid"/>
+<text x="91" y="65.0" text-anchor="end" class="muted" font-size="13">$600k</text>
+<line x1="105" y1="60" x2="105" y2="480" class="axis"/>
+<line x1="105" y1="480" x2="1265" y2="480" class="axis"/>
+<text x="28" y="270.0" text-anchor="middle" font-size="14" transform="rotate(-90 28 270.0)">Median family net worth (2025 dollars)</text>
+<line x1="105.0" y1="480" x2="105.0" y2="486" class="axis"/>
+<text x="105.0" y="504" text-anchor="middle" class="muted" font-size="12">1989</text>
+<line x1="201.7" y1="480" x2="201.7" y2="486" class="axis"/>
+<text x="201.7" y="504" text-anchor="middle" class="muted" font-size="12">1992</text>
+<line x1="298.3" y1="480" x2="298.3" y2="486" class="axis"/>
+<text x="298.3" y="504" text-anchor="middle" class="muted" font-size="12">1995</text>
+<line x1="395.0" y1="480" x2="395.0" y2="486" class="axis"/>
+<text x="395.0" y="504" text-anchor="middle" class="muted" font-size="12">1998</text>
+<line x1="491.7" y1="480" x2="491.7" y2="486" class="axis"/>
+<text x="491.7" y="504" text-anchor="middle" class="muted" font-size="12">2001</text>
+<line x1="588.3" y1="480" x2="588.3" y2="486" class="axis"/>
+<text x="588.3" y="504" text-anchor="middle" class="muted" font-size="12">2004</text>
+<line x1="685.0" y1="480" x2="685.0" y2="486" class="axis"/>
+<text x="685.0" y="504" text-anchor="middle" class="muted" font-size="12">2007</text>
+<line x1="781.7" y1="480" x2="781.7" y2="486" class="axis"/>
+<text x="781.7" y="504" text-anchor="middle" class="muted" font-size="12">2010</text>
+<line x1="878.3" y1="480" x2="878.3" y2="486" class="axis"/>
+<text x="878.3" y="504" text-anchor="middle" class="muted" font-size="12">2013</text>
+<line x1="975.0" y1="480" x2="975.0" y2="486" class="axis"/>
+<text x="975.0" y="504" text-anchor="middle" class="muted" font-size="12">2016</text>
+<line x1="1071.7" y1="480" x2="1071.7" y2="486" class="axis"/>
+<text x="1071.7" y="504" text-anchor="middle" class="muted" font-size="12">2019</text>
+<line x1="1168.3" y1="480" x2="1168.3" y2="486" class="axis"/>
+<text x="1168.3" y="504" text-anchor="middle" class="muted" font-size="12">2022</text>
+<line x1="1265.0" y1="480" x2="1265.0" y2="486" class="axis"/>
+<text x="1265.0" y="504" text-anchor="middle" class="muted" font-size="12">2025</text>
+<polyline points="105.0,254.1 201.7,304.2 298.3,302.0 395.0,241.1 491.7,165.9 588.3,155.4 685.0,123.2 781.7,221.3 878.3,211.9 975.0,205.1 1071.7,205.9 1168.3,123.5 1265.0,121.8" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="105.0" cy="254.1" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="201.7" cy="304.2" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="298.3" cy="302.0" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="395.0" cy="241.1" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="491.7" cy="165.9" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="588.3" cy="155.4" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="685.0" cy="123.2" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="781.7" cy="221.3" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="878.3" cy="211.9" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="975.0" cy="205.1" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="1071.7" cy="205.9" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="1168.3" cy="123.5" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<circle cx="1265.0" cy="121.8" r="4" fill="#000000" stroke="#000" stroke-width="1"/>
+<polyline points="105.0,426.1 201.7,432.1 298.3,416.4 395.0,422.9 491.7,422.4 588.3,419.0 685.0,413.4 781.7,436.3 878.3,440.7 975.0,437.4 1071.7,427.9 1168.3,418.5 1265.0,423.4" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="8,5" stroke-linejoin="round"/>
+<rect x="101.0" y="422.1" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="197.7" y="428.1" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="294.3" y="412.4" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="391.0" y="418.9" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="487.7" y="418.4" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="584.3" y="415.0" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="681.0" y="409.4" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="777.7" y="432.3" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="874.3" y="436.7" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="971.0" y="433.4" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="1067.7" y="423.9" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="1164.3" y="414.5" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<rect x="1261.0" y="419.4" width="8" height="8" fill="#ffffff" stroke="#000" stroke-width="1"/>
+<line x1="105" y1="30" x2="135" y2="30" stroke="#000" stroke-width="2"/>
+<circle cx="120" cy="30" r="4" fill="#000" stroke="#000"/>
+<text x="145" y="35" font-size="13">College degree or higher</text>
+<line x1="445" y1="30" x2="475" y2="30" stroke="#000" stroke-width="2" stroke-dasharray="8,5"/>
+<rect x="456" y="26" width="8" height="8" fill="#fff" stroke="#000"/>
+<text x="485" y="35" font-size="13">High school or less</text>
+<text x="105" y="555" font-size="15" font-weight="700">Figure 1. Median family net worth by education group, 1989–2025</text>
+<text x="105" y="579" font-size="13">Note: Values are adjusted to 2025 dollars. Groups use respondent/reference person’s own education in all waves.</text>
+<text x="105" y="599" font-size="13">Some college/associate degree and unknown education are excluded.</text>
+<text x="105" y="619" font-size="13">Medians are calculated within each of the five implicates using survey weights, then averaged.</text>
+<text x="105" y="653" font-size="13">Source: Federal Reserve Board, Survey of Consumer Finances, 1989–2025; authors’ calculations.</text>
+</svg>
